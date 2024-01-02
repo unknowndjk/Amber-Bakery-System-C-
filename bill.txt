@@ -1,0 +1,13 @@
+------------ Bill Summary ------------
+Item Name	Item Price	Quntity
+
+cake		1.4		5
+
+
+
+Your full bill is $7
+
+
+
+
+------------ Thank you ! -------------

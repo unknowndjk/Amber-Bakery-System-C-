@@ -1,0 +1,3 @@
+cake,1.4
+pancake,0.99
+applecake,1.23
